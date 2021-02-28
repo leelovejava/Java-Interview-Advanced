@@ -567,7 +567,9 @@
 
 - [C2C电商系统微服务架构120天实战训练营](docs/c2c/REAME.md)
 
+## 100讲带你实战基于Redis的高并发预约抢购系统
 
+https://www.jianguoyun.com/p/DWwZ52oQtPiaCRjDg-AD (访问密码：ruyuan)
 
 
 
